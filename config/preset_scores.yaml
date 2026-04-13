@@ -1,0 +1,2462 @@
+preset_scores:
+  A:
+    organization_context:
+      q1: 'yes'
+      q2: 'yes'
+      q3: 'no'
+      q5: 4
+    leadership:
+      q1: 'yes'
+      q2: 4
+      q3: 4
+      q6: 'yes'
+      q7: 4
+      q9: 'yes'
+      q10: 'yes'
+      q13: 'yes'
+      q14: 'yes'
+      q15: 4
+      q16: 'yes'
+    planning:
+      q1: 'yes'
+      q3: 'yes'
+      q4: 'yes'
+      q7: 'yes'
+      q8: 'yes'
+      q9: 'yes'
+      q10: 'yes'
+      q13: 'yes'
+      q14: 'yes'
+      q15: 'no'
+      q19: 4
+      q20: 4
+      q21: 'yes'
+      q26: 4
+      q27: 'yes'
+      q31: 'yes'
+      q32: 'yes'
+      q34: 'yes'
+    support:
+      q2: 4
+      q3: 4
+      q5: 4
+      q7: 4
+      q8: 'yes'
+      q9: 'yes'
+      q10: 'yes'
+      q11: 4
+      q12: 4
+      q14: 4
+      q15: 'yes'
+      q19: 'yes'
+      q21: 4
+      q23: 4
+      q24: 4
+      q25: 4
+      q26: 4
+      q27: 4
+      q28: 4
+      q29: 'yes'
+    operation:
+      q3: 4
+      q4: 4
+      q5: 4
+      q9: 4
+      q10: 4
+      q11: 'yes'
+      q12: 'yes'
+      q13: 4
+      q15: 4
+      q16: 'no'
+      q17: 'yes'
+      q18: 4
+      q20: 4
+      q22: 4
+      q23: 'yes'
+      q24: 'yes'
+      q26: 4
+      q27: 4
+      q28: 4
+      q31: 'yes'
+      q33: 4
+      q35: 'yes'
+      q36: 4
+      q37: 'yes'
+      q38: 4
+      q39: 'yes'
+      q40: 4
+      q41: 4
+      q42: 'yes'
+      q44: 4
+      q45: 4
+      q46: 4
+      q47: 'yes'
+      q48: 4
+      q50: 4
+      q54: 4
+      q55: 'yes'
+      q56: 'yes'
+      q57: 'yes'
+      q58: 'yes'
+      q59: 'yes'
+      q60: 'yes'
+      q61: 'yes'
+      q62: 'yes'
+      q64: 'yes'
+      q65: 4
+      q66: 'yes'
+      q67: 'yes'
+      q68: 'yes'
+      q69: 'yes'
+      q70: 4
+      q71: 'yes'
+      q72: 'yes'
+      q73: 'yes'
+      q74: 'yes'
+      q75: 4
+      q76: 'yes'
+      q77: 'yes'
+      q80: 'yes'
+      q81: 'yes'
+      q83: 'yes'
+      q84: 4
+      q85: 4
+      q86: 4
+      q88: 4
+      q89: 'yes'
+      q91: 4
+      q96: 'yes'
+      q97: 'yes'
+      q99: 'yes'
+      q100: 4
+    performance_evaluation:
+      q2: 'yes'
+      q3: 4
+      q4: 'yes'
+      q5: 4
+      q6: 'yes'
+      q7: 'yes'
+      q8: 'yes'
+      q10: 4
+      q11: 'yes'
+      q12: 'yes'
+      q13: 'yes'
+      q14: 'yes'
+      q16: 'yes'
+      q17: 'yes'
+      q18: 'yes'
+      q21: 4
+      q22: 'yes'
+    improvement:
+      q3: 4
+      q4: 4
+      q5: 4
+  B:
+    organization_context:
+      q1: 'yes'
+      q2: 'yes'
+      q3: 'yes'
+      q5: 3
+    leadership:
+      q1: 'no'
+      q2: 3
+      q3: 3
+      q6: 'yes'
+      q7: 3
+      q9: 'yes'
+      q10: 'yes'
+      q13: 'yes'
+      q14: 'yes'
+      q15: 3
+      q16: 'yes'
+    planning:
+      q1: 'yes'
+      q3: 'yes'
+      q4: 'yes'
+      q7: 'yes'
+      q8: 'yes'
+      q9: 'yes'
+      q10: 'no'
+      q13: 'yes'
+      q14: 'yes'
+      q15: 'yes'
+      q19: 3
+      q20: 3
+      q21: 'yes'
+      q26: 3
+      q27: 'yes'
+      q31: 'yes'
+      q32: 'yes'
+      q34: 'yes'
+    support:
+      q2: 3
+      q3: 3
+      q5: 3
+      q7: 3
+      q8: 'yes'
+      q9: 'yes'
+      q10: 'yes'
+      q11: 3
+      q12: 3
+      q14: 3
+      q15: 'yes'
+      q19: 'no'
+      q21: 3
+      q23: 3
+      q24: 3
+      q25: 3
+      q26: 3
+      q27: 3
+      q28: 3
+      q29: 'yes'
+    operation:
+      q3: 3
+      q4: 3
+      q5: 3
+      q9: 3
+      q10: 3
+      q11: 'no'
+      q12: 'no'
+      q13: 3
+      q15: 3
+      q16: 'no'
+      q17: 'yes'
+      q18: 3
+      q20: 3
+      q22: 3
+      q23: 'no'
+      q24: 'yes'
+      q26: 3
+      q27: 3
+      q28: 3
+      q31: 'yes'
+      q33: 3
+      q35: 'yes'
+      q36: 3
+      q37: 'no'
+      q38: 3
+      q39: 'yes'
+      q40: 3
+      q41: 3
+      q42: 'yes'
+      q44: 3
+      q45: 3
+      q46: 3
+      q47: 'yes'
+      q48: 3
+      q50: 3
+      q54: 3
+      q55: 'yes'
+      q56: 'yes'
+      q57: 'yes'
+      q58: 'yes'
+      q59: 'yes'
+      q60: 'yes'
+      q61: 'yes'
+      q62: 'yes'
+      q64: 'yes'
+      q65: 3
+      q66: 'no'
+      q67: 'yes'
+      q68: 'yes'
+      q69: 'yes'
+      q70: 3
+      q71: 'yes'
+      q72: 'yes'
+      q73: 'yes'
+      q74: 'yes'
+      q75: 3
+      q76: 'no'
+      q77: 'yes'
+      q80: 'yes'
+      q81: 'yes'
+      q83: 'no'
+      q84: 3
+      q85: 3
+      q86: 3
+      q88: 3
+      q89: 'yes'
+      q91: 3
+      q96: 'yes'
+      q97: 'yes'
+      q99: 'yes'
+      q100: 3
+    performance_evaluation:
+      q2: 'yes'
+      q3: 3
+      q4: 'yes'
+      q5: 3
+      q6: 'yes'
+      q7: 'yes'
+      q8: 'yes'
+      q10: 3
+      q11: 'yes'
+      q12: 'yes'
+      q13: 'yes'
+      q14: 'yes'
+      q16: 'yes'
+      q17: 'yes'
+      q18: 'yes'
+      q21: 3
+      q22: 'no'
+    improvement:
+      q3: 3
+      q4: 3
+      q5: 3
+  C:
+    organization_context:
+      q1: 'yes'
+      q2: 'yes'
+      q3: 'yes'
+      q5: 3
+    leadership:
+      q1: 'yes'
+      q2: 3
+      q3: 3
+      q6: 'yes'
+      q7: 3
+      q9: 'no'
+      q10: 'no'
+      q13: 'yes'
+      q14: 'no'
+      q15: 3
+      q16: 'no'
+    planning:
+      q1: 'no'
+      q3: 'yes'
+      q4: 'yes'
+      q7: 'yes'
+      q8: 'no'
+      q9: 'yes'
+      q10: 'yes'
+      q13: 'yes'
+      q14: 'yes'
+      q15: 'yes'
+      q19: 3
+      q20: 3
+      q21: 'no'
+      q26: 3
+      q27: 'yes'
+      q31: 'no'
+      q32: 'yes'
+      q34: 'yes'
+    support:
+      q2: 3
+      q3: 3
+      q5: 3
+      q7: 3
+      q8: 'yes'
+      q9: 'yes'
+      q10: 'yes'
+      q11: 3
+      q12: 3
+      q14: 3
+      q15: 'no'
+      q19: 'yes'
+      q21: 3
+      q23: 3
+      q24: 3
+      q25: 3
+      q26: 3
+      q27: 3
+      q28: 3
+      q29: 'no'
+    operation:
+      q3: 3
+      q4: 3
+      q5: 3
+      q9: 3
+      q10: 3
+      q11: 'yes'
+      q12: 'no'
+      q13: 3
+      q15: 3
+      q16: 'yes'
+      q17: 'no'
+      q18: 3
+      q20: 3
+      q22: 3
+      q23: 'no'
+      q24: 'yes'
+      q26: 3
+      q27: 3
+      q28: 3
+      q31: 'yes'
+      q33: 3
+      q35: 'yes'
+      q36: 3
+      q37: 'yes'
+      q38: 3
+      q39: 'yes'
+      q40: 3
+      q41: 3
+      q42: 'yes'
+      q44: 3
+      q45: 3
+      q46: 3
+      q47: 'yes'
+      q48: 3
+      q50: 3
+      q54: 3
+      q55: 'no'
+      q56: 'yes'
+      q57: 'no'
+      q58: 'no'
+      q59: 'yes'
+      q60: 'yes'
+      q61: 'yes'
+      q62: 'no'
+      q64: 'yes'
+      q65: 3
+      q66: 'yes'
+      q67: 'yes'
+      q68: 'no'
+      q69: 'yes'
+      q70: 3
+      q71: 'no'
+      q72: 'yes'
+      q73: 'yes'
+      q74: 'yes'
+      q75: 3
+      q76: 'yes'
+      q77: 'yes'
+      q80: 'yes'
+      q81: 'yes'
+      q83: 'no'
+      q84: 3
+      q85: 3
+      q86: 3
+      q88: 3
+      q89: 'yes'
+      q91: 3
+      q96: 'no'
+      q97: 'no'
+      q99: 'no'
+      q100: 3
+    performance_evaluation:
+      q2: 'yes'
+      q3: 3
+      q4: 'no'
+      q5: 3
+      q6: 'yes'
+      q7: 'yes'
+      q8: 'yes'
+      q10: 3
+      q11: 'yes'
+      q12: 'yes'
+      q13: 'no'
+      q14: 'no'
+      q16: 'no'
+      q17: 'yes'
+      q18: 'yes'
+      q21: 3
+      q22: 'yes'
+    improvement:
+      q3: 3
+      q4: 3
+      q5: 3
+  D:
+    organization_context:
+      q1: 'yes'
+      q2: 'no'
+      q3: 'yes'
+      q5: 2
+    leadership:
+      q1: 'yes'
+      q2: 2
+      q3: 2
+      q6: 'yes'
+      q7: 2
+      q9: 'yes'
+      q10: 'yes'
+      q13: 'yes'
+      q14: 'no'
+      q15: 2
+      q16: 'yes'
+    planning:
+      q1: 'no'
+      q3: 'yes'
+      q4: 'no'
+      q7: 'no'
+      q8: 'yes'
+      q9: 'yes'
+      q10: 'yes'
+      q13: 'no'
+      q14: 'no'
+      q15: 'yes'
+      q19: 2
+      q20: 2
+      q21: 'yes'
+      q26: 2
+      q27: 'yes'
+      q31: 'yes'
+      q32: 'yes'
+      q34: 'yes'
+    support:
+      q2: 2
+      q3: 2
+      q5: 2
+      q7: 2
+      q8: 'no'
+      q9: 'no'
+      q10: 'no'
+      q11: 2
+      q12: 2
+      q14: 2
+      q15: 'no'
+      q19: 'yes'
+      q21: 2
+      q23: 2
+      q24: 2
+      q25: 2
+      q26: 2
+      q27: 2
+      q28: 2
+      q29: 'no'
+    operation:
+      q3: 2
+      q4: 2
+      q5: 2
+      q9: 2
+      q10: 2
+      q11: 'yes'
+      q12: 'yes'
+      q13: 2
+      q15: 2
+      q16: 'no'
+      q17: 'yes'
+      q18: 2
+      q20: 2
+      q22: 2
+      q23: 'yes'
+      q24: 'no'
+      q26: 2
+      q27: 2
+      q28: 2
+      q31: 'yes'
+      q33: 2
+      q35: 'yes'
+      q36: 2
+      q37: 'yes'
+      q38: 2
+      q39: 'no'
+      q40: 2
+      q41: 2
+      q42: 'no'
+      q44: 2
+      q45: 2
+      q46: 2
+      q47: 'no'
+      q48: 2
+      q50: 2
+      q54: 2
+      q55: 'no'
+      q56: 'yes'
+      q57: 'no'
+      q58: 'yes'
+      q59: 'no'
+      q60: 'no'
+      q61: 'yes'
+      q62: 'yes'
+      q64: 'no'
+      q65: 2
+      q66: 'yes'
+      q67: 'no'
+      q68: 'yes'
+      q69: 'yes'
+      q70: 2
+      q71: 'yes'
+      q72: 'yes'
+      q73: 'no'
+      q74: 'no'
+      q75: 2
+      q76: 'yes'
+      q77: 'no'
+      q80: 'no'
+      q81: 'yes'
+      q83: 'yes'
+      q84: 2
+      q85: 2
+      q86: 2
+      q88: 2
+      q89: 'no'
+      q91: 2
+      q96: 'yes'
+      q97: 'no'
+      q99: 'no'
+      q100: 2
+    performance_evaluation:
+      q2: 'no'
+      q3: 2
+      q4: 'no'
+      q5: 2
+      q6: 'yes'
+      q7: 'yes'
+      q8: 'yes'
+      q10: 2
+      q11: 'no'
+      q12: 'yes'
+      q13: 'yes'
+      q14: 'yes'
+      q16: 'no'
+      q17: 'no'
+      q18: 'yes'
+      q21: 2
+      q22: 'no'
+    improvement:
+      q3: 2
+      q4: 2
+      q5: 2
+  E:
+    organization_context:
+      q1: 'yes'
+      q2: 'yes'
+      q3: 'no'
+      q5: 2
+    leadership:
+      q1: 'no'
+      q2: 2
+      q3: 2
+      q6: 'no'
+      q7: 2
+      q9: 'yes'
+      q10: 'no'
+      q13: 'no'
+      q14: 'yes'
+      q15: 2
+      q16: 'yes'
+    planning:
+      q1: 'yes'
+      q3: 'yes'
+      q4: 'no'
+      q7: 'yes'
+      q8: 'no'
+      q9: 'no'
+      q10: 'no'
+      q13: 'no'
+      q14: 'no'
+      q15: 'no'
+      q19: 2
+      q20: 2
+      q21: 'no'
+      q26: 2
+      q27: 'yes'
+      q31: 'no'
+      q32: 'yes'
+      q34: 'yes'
+    support:
+      q2: 2
+      q3: 2
+      q5: 2
+      q7: 2
+      q8: 'no'
+      q9: 'yes'
+      q10: 'yes'
+      q11: 2
+      q12: 2
+      q14: 2
+      q15: 'no'
+      q19: 'no'
+      q21: 2
+      q23: 2
+      q24: 2
+      q25: 2
+      q26: 2
+      q27: 2
+      q28: 2
+      q29: 'no'
+    operation:
+      q3: 2
+      q4: 2
+      q5: 2
+      q9: 2
+      q10: 2
+      q11: 'yes'
+      q12: 'no'
+      q13: 2
+      q15: 2
+      q16: 'no'
+      q17: 'yes'
+      q18: 2
+      q20: 2
+      q22: 2
+      q23: 'yes'
+      q24: 'yes'
+      q26: 2
+      q27: 2
+      q28: 2
+      q31: 'yes'
+      q33: 2
+      q35: 'no'
+      q36: 2
+      q37: 'yes'
+      q38: 2
+      q39: 'no'
+      q40: 2
+      q41: 2
+      q42: 'no'
+      q44: 2
+      q45: 2
+      q46: 2
+      q47: 'yes'
+      q48: 2
+      q50: 2
+      q54: 2
+      q55: 'no'
+      q56: 'no'
+      q57: 'no'
+      q58: 'no'
+      q59: 'no'
+      q60: 'yes'
+      q61: 'yes'
+      q62: 'yes'
+      q64: 'no'
+      q65: 2
+      q66: 'no'
+      q67: 'no'
+      q68: 'yes'
+      q69: 'no'
+      q70: 2
+      q71: 'yes'
+      q72: 'yes'
+      q73: 'no'
+      q74: 'yes'
+      q75: 2
+      q76: 'no'
+      q77: 'yes'
+      q80: 'yes'
+      q81: 'no'
+      q83: 'yes'
+      q84: 2
+      q85: 2
+      q86: 2
+      q88: 2
+      q89: 'yes'
+      q91: 2
+      q96: 'no'
+      q97: 'yes'
+      q99: 'no'
+      q100: 2
+    performance_evaluation:
+      q2: 'no'
+      q3: 2
+      q4: 'yes'
+      q5: 2
+      q6: 'no'
+      q7: 'yes'
+      q8: 'no'
+      q10: 2
+      q11: 'no'
+      q12: 'yes'
+      q13: 'no'
+      q14: 'no'
+      q16: 'yes'
+      q17: 'yes'
+      q18: 'no'
+      q21: 2
+      q22: 'yes'
+    improvement:
+      q3: 2
+      q4: 2
+      q5: 2
+preset_sub_scores:
+  A:
+    organization_context:
+      q4:
+      - true
+      - true
+      - true
+      - true
+    leadership:
+      q4:
+      - true
+      - true
+      - true
+      q5:
+      - true
+      - true
+      q8:
+      - true
+      - true
+      - false
+      - true
+      - true
+      q11:
+      - true
+      - true
+      q12:
+      - true
+      - true
+      q17:
+      - true
+      - true
+      - false
+      - true
+      - true
+    planning:
+      q2:
+      - false
+      - true
+      - true
+      - true
+      - true
+      q5:
+      - true
+      - true
+      q6:
+      - true
+      - true
+      q11:
+      - true
+      - true
+      - true
+      - true
+      q12:
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+      - true
+      - true
+      q16:
+      - true
+      - true
+      - true
+      - false
+      - true
+      q17:
+      - true
+      - true
+      - true
+      - true
+      q18:
+      - true
+      - true
+      q22:
+      - true
+      - true
+      - true
+      - true
+      q23:
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+      q24:
+      - true
+      - true
+      - true
+      q25:
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+      - true
+      q28:
+      - true
+      - true
+      - true
+      q29:
+      - true
+      - true
+      - true
+      q30:
+      - true
+      - true
+      q33:
+      - true
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      - true
+    support:
+      q1:
+      - true
+      - true
+      - true
+      q4:
+      - true
+      - true
+      - true
+      q6:
+      - true
+      - true
+      - true
+      q13:
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+      q16:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      q17:
+      - true
+      - true
+      - true
+      - true
+      - false
+      - true
+      q18:
+      - true
+      - true
+      - true
+      q20:
+      - true
+      - true
+      - true
+      q22:
+      - true
+      - true
+      - true
+      - true
+    operation:
+      q1:
+      - true
+      - true
+      - true
+      - true
+      - false
+      q2:
+      - true
+      - true
+      q6:
+      - true
+      - true
+      - true
+      q7:
+      - true
+      - true
+      q8:
+      - true
+      - true
+      q14:
+      - true
+      - true
+      - true
+      - true
+      q19:
+      - true
+      - true
+      q21:
+      - true
+      - true
+      - true
+      q25:
+      - true
+      - true
+      - true
+      - true
+      q29:
+      - true
+      - true
+      - true
+      q30:
+      - true
+      - true
+      q32:
+      - true
+      - true
+      - true
+      q34:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      q43:
+      - true
+      - true
+      - true
+      - false
+      - true
+      q49:
+      - true
+      - true
+      - true
+      q51:
+      - true
+      - true
+      q52:
+      - true
+      - true
+      q53:
+      - true
+      - true
+      q63:
+      - true
+      - true
+      - true
+      - true
+      - false
+      - true
+      q78:
+      - true
+      - true
+      q79:
+      - true
+      - true
+      - true
+      - true
+      q82:
+      - true
+      - true
+      q87:
+      - true
+      - true
+      q90:
+      - true
+      - true
+      - true
+      q92:
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+      q93:
+      - true
+      - true
+      - true
+      q94:
+      - true
+      - true
+      - true
+      q95:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      - true
+      q98:
+      - true
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+    performance_evaluation:
+      q1:
+      - true
+      - true
+      - true
+      q9:
+      - true
+      - true
+      - true
+      q15:
+      - true
+      - true
+      q19:
+      - true
+      - true
+      - false
+      - true
+      - true
+      - true
+      q20:
+      - true
+      - true
+      - true
+      - true
+    improvement:
+      q1:
+      - true
+      - true
+      - true
+      q2:
+      - true
+      - true
+      - true
+      - true
+      q6:
+      - true
+      - true
+      - true
+  B:
+    organization_context:
+      q4:
+      - true
+      - true
+      - true
+      - false
+    leadership:
+      q4:
+      - true
+      - true
+      - false
+      q5:
+      - true
+      - true
+      q8:
+      - true
+      - true
+      - true
+      - false
+      - true
+      q11:
+      - true
+      - true
+      q12:
+      - true
+      - true
+      q17:
+      - false
+      - true
+      - true
+      - true
+      - true
+    planning:
+      q2:
+      - true
+      - true
+      - true
+      - true
+      - false
+      q5:
+      - true
+      - true
+      q6:
+      - true
+      - true
+      q11:
+      - false
+      - true
+      - true
+      - true
+      q12:
+      - false
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      q16:
+      - true
+      - true
+      - false
+      - true
+      - true
+      q17:
+      - false
+      - true
+      - true
+      - true
+      q18:
+      - true
+      - true
+      q22:
+      - true
+      - false
+      - true
+      - true
+      q23:
+      - true
+      - true
+      - true
+      - false
+      - true
+      - true
+      - true
+      q24:
+      - true
+      - true
+      - false
+      q25:
+      - false
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      q28:
+      - true
+      - false
+      - true
+      q29:
+      - false
+      - true
+      - true
+      q30:
+      - true
+      - true
+      q33:
+      - true
+      - true
+      - false
+      - true
+      - false
+      - true
+      - true
+      - true
+    support:
+      q1:
+      - true
+      - true
+      - false
+      q4:
+      - true
+      - true
+      - false
+      q6:
+      - true
+      - true
+      - false
+      q13:
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+      q16:
+      - true
+      - true
+      - true
+      - true
+      - false
+      - true
+      q17:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      q18:
+      - true
+      - true
+      - false
+      q20:
+      - true
+      - true
+      - false
+      q22:
+      - true
+      - false
+      - true
+      - true
+    operation:
+      q1:
+      - false
+      - true
+      - true
+      - true
+      - true
+      q2:
+      - true
+      - true
+      q6:
+      - true
+      - true
+      - false
+      q7:
+      - true
+      - true
+      q8:
+      - true
+      - true
+      q14:
+      - true
+      - true
+      - true
+      - false
+      q19:
+      - true
+      - true
+      q21:
+      - true
+      - false
+      - true
+      q25:
+      - false
+      - true
+      - true
+      - true
+      q29:
+      - true
+      - true
+      - false
+      q30:
+      - true
+      - true
+      q32:
+      - true
+      - true
+      - false
+      q34:
+      - true
+      - false
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      q43:
+      - true
+      - true
+      - false
+      - true
+      - true
+      q49:
+      - false
+      - true
+      - true
+      q51:
+      - true
+      - true
+      q52:
+      - true
+      - true
+      q53:
+      - true
+      - true
+      q63:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      q78:
+      - true
+      - true
+      q79:
+      - false
+      - true
+      - true
+      - true
+      q82:
+      - true
+      - true
+      q87:
+      - true
+      - true
+      q90:
+      - false
+      - true
+      - true
+      q92:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      q93:
+      - false
+      - true
+      - true
+      q94:
+      - true
+      - false
+      - true
+      q95:
+      - true
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+      q98:
+      - true
+      - true
+      - true
+      - false
+      - true
+      - true
+      - true
+      - false
+      - true
+    performance_evaluation:
+      q1:
+      - true
+      - false
+      - true
+      q9:
+      - true
+      - true
+      - false
+      q15:
+      - true
+      - true
+      q19:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      q20:
+      - true
+      - true
+      - true
+      - false
+    improvement:
+      q1:
+      - false
+      - true
+      - true
+      q2:
+      - false
+      - true
+      - true
+      - true
+      q6:
+      - false
+      - true
+      - true
+  C:
+    organization_context:
+      q4:
+      - true
+      - false
+      - true
+      - true
+    leadership:
+      q4:
+      - true
+      - false
+      - true
+      q5:
+      - true
+      - false
+      q8:
+      - true
+      - true
+      - true
+      - true
+      - false
+      q11:
+      - false
+      - true
+      q12:
+      - false
+      - true
+      q17:
+      - true
+      - true
+      - true
+      - true
+      - false
+    planning:
+      q2:
+      - false
+      - true
+      - true
+      - true
+      - true
+      q5:
+      - true
+      - false
+      q6:
+      - false
+      - true
+      q11:
+      - true
+      - true
+      - true
+      - false
+      q12:
+      - true
+      - true
+      - true
+      - false
+      - false
+      - false
+      - true
+      - true
+      - true
+      q16:
+      - true
+      - true
+      - true
+      - true
+      - false
+      q17:
+      - true
+      - true
+      - true
+      - false
+      q18:
+      - false
+      - true
+      q22:
+      - true
+      - true
+      - false
+      - true
+      q23:
+      - true
+      - true
+      - false
+      - true
+      - true
+      - true
+      - false
+      q24:
+      - true
+      - false
+      - true
+      q25:
+      - true
+      - false
+      - true
+      - false
+      - true
+      - true
+      - true
+      q28:
+      - true
+      - false
+      - true
+      q29:
+      - true
+      - true
+      - false
+      q30:
+      - true
+      - false
+      q33:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      - true
+      - false
+    support:
+      q1:
+      - true
+      - true
+      - false
+      q4:
+      - true
+      - false
+      - true
+      q6:
+      - true
+      - false
+      - true
+      q13:
+      - false
+      - true
+      - false
+      - true
+      - true
+      - true
+      - true
+      q16:
+      - true
+      - false
+      - true
+      - true
+      - true
+      - false
+      q17:
+      - true
+      - true
+      - false
+      - false
+      - true
+      - true
+      q18:
+      - false
+      - true
+      - true
+      q20:
+      - true
+      - false
+      - true
+      q22:
+      - true
+      - false
+      - true
+      - true
+    operation:
+      q1:
+      - false
+      - true
+      - true
+      - true
+      - true
+      q2:
+      - false
+      - true
+      q6:
+      - true
+      - true
+      - false
+      q7:
+      - true
+      - false
+      q8:
+      - false
+      - true
+      q14:
+      - true
+      - true
+      - false
+      - true
+      q19:
+      - true
+      - false
+      q21:
+      - true
+      - true
+      - false
+      q25:
+      - true
+      - true
+      - true
+      - false
+      q29:
+      - true
+      - false
+      - true
+      q30:
+      - true
+      - false
+      q32:
+      - false
+      - true
+      - true
+      q34:
+      - true
+      - true
+      - true
+      - false
+      - true
+      - false
+      - true
+      - true
+      q43:
+      - false
+      - true
+      - true
+      - true
+      - true
+      q49:
+      - true
+      - false
+      - true
+      q51:
+      - false
+      - true
+      q52:
+      - true
+      - false
+      q53:
+      - false
+      - true
+      q63:
+      - false
+      - true
+      - true
+      - false
+      - true
+      - true
+      q78:
+      - false
+      - true
+      q79:
+      - true
+      - true
+      - false
+      - true
+      q82:
+      - true
+      - false
+      q87:
+      - true
+      - false
+      q90:
+      - true
+      - false
+      - true
+      q92:
+      - true
+      - true
+      - false
+      - true
+      - false
+      - true
+      q93:
+      - true
+      - false
+      - true
+      q94:
+      - false
+      - true
+      - true
+      q95:
+      - true
+      - true
+      - true
+      - false
+      - true
+      - true
+      - false
+      q98:
+      - true
+      - true
+      - false
+      - false
+      - true
+      - true
+      - false
+      - true
+      - true
+    performance_evaluation:
+      q1:
+      - false
+      - true
+      - true
+      q9:
+      - true
+      - true
+      - false
+      q15:
+      - true
+      - false
+      q19:
+      - true
+      - true
+      - false
+      - true
+      - true
+      - false
+      q20:
+      - true
+      - true
+      - true
+      - false
+    improvement:
+      q1:
+      - true
+      - true
+      - false
+      q2:
+      - false
+      - true
+      - true
+      - true
+      q6:
+      - false
+      - true
+      - true
+  D:
+    organization_context:
+      q4:
+      - true
+      - false
+      - false
+      - true
+    leadership:
+      q4:
+      - false
+      - true
+      - true
+      q5:
+      - false
+      - true
+      q8:
+      - true
+      - false
+      - true
+      - false
+      - true
+      q11:
+      - false
+      - true
+      q12:
+      - true
+      - false
+      q17:
+      - true
+      - true
+      - false
+      - false
+      - true
+    planning:
+      q2:
+      - false
+      - true
+      - true
+      - false
+      - true
+      q5:
+      - true
+      - false
+      q6:
+      - true
+      - false
+      q11:
+      - true
+      - false
+      - false
+      - true
+      q12:
+      - false
+      - true
+      - false
+      - true
+      - true
+      - false
+      - false
+      - true
+      - true
+      q16:
+      - true
+      - true
+      - true
+      - false
+      - false
+      q17:
+      - true
+      - false
+      - false
+      - true
+      q18:
+      - false
+      - true
+      q22:
+      - false
+      - true
+      - true
+      - false
+      q23:
+      - true
+      - true
+      - true
+      - false
+      - true
+      - false
+      - false
+      q24:
+      - true
+      - false
+      - true
+      q25:
+      - true
+      - false
+      - true
+      - false
+      - true
+      - false
+      - true
+      q28:
+      - true
+      - false
+      - true
+      q29:
+      - true
+      - false
+      - true
+      q30:
+      - true
+      - false
+      q33:
+      - true
+      - true
+      - true
+      - false
+      - false
+      - true
+      - true
+      - false
+    support:
+      q1:
+      - false
+      - true
+      - true
+      q4:
+      - true
+      - true
+      - false
+      q6:
+      - true
+      - false
+      - true
+      q13:
+      - true
+      - false
+      - true
+      - false
+      - true
+      - false
+      - true
+      q16:
+      - true
+      - true
+      - false
+      - true
+      - false
+      - true
+      q17:
+      - true
+      - true
+      - false
+      - true
+      - true
+      - false
+      q18:
+      - true
+      - false
+      - true
+      q20:
+      - true
+      - true
+      - false
+      q22:
+      - true
+      - false
+      - false
+      - true
+    operation:
+      q1:
+      - false
+      - true
+      - false
+      - true
+      - true
+      q2:
+      - false
+      - true
+      q6:
+      - false
+      - true
+      - true
+      q7:
+      - true
+      - false
+      q8:
+      - false
+      - true
+      q14:
+      - true
+      - true
+      - false
+      - false
+      q19:
+      - true
+      - false
+      q21:
+      - true
+      - false
+      - true
+      q25:
+      - true
+      - false
+      - true
+      - false
+      q29:
+      - false
+      - true
+      - true
+      q30:
+      - true
+      - false
+      q32:
+      - true
+      - false
+      - true
+      q34:
+      - false
+      - true
+      - false
+      - true
+      - true
+      - false
+      - true
+      - true
+      q43:
+      - true
+      - true
+      - true
+      - false
+      - false
+      q49:
+      - true
+      - true
+      - false
+      q51:
+      - true
+      - false
+      q52:
+      - true
+      - false
+      q53:
+      - true
+      - false
+      q63:
+      - true
+      - false
+      - false
+      - true
+      - true
+      - true
+      q78:
+      - false
+      - true
+      q79:
+      - true
+      - true
+      - false
+      - false
+      q82:
+      - true
+      - false
+      q87:
+      - true
+      - false
+      q90:
+      - false
+      - true
+      - true
+      q92:
+      - false
+      - true
+      - true
+      - true
+      - true
+      - false
+      q93:
+      - true
+      - false
+      - true
+      q94:
+      - false
+      - true
+      - true
+      q95:
+      - true
+      - false
+      - false
+      - true
+      - true
+      - true
+      - false
+      q98:
+      - true
+      - true
+      - true
+      - false
+      - false
+      - true
+      - true
+      - false
+      - false
+    performance_evaluation:
+      q1:
+      - true
+      - true
+      - false
+      q9:
+      - true
+      - false
+      - true
+      q15:
+      - true
+      - false
+      q19:
+      - true
+      - true
+      - false
+      - true
+      - true
+      - false
+      q20:
+      - true
+      - false
+      - true
+      - false
+    improvement:
+      q1:
+      - false
+      - true
+      - true
+      q2:
+      - false
+      - true
+      - false
+      - true
+      q6:
+      - true
+      - false
+      - true
+  E:
+    organization_context:
+      q4:
+      - false
+      - true
+      - true
+      - false
+    leadership:
+      q4:
+      - true
+      - false
+      - true
+      q5:
+      - true
+      - false
+      q8:
+      - false
+      - false
+      - true
+      - false
+      - true
+      q11:
+      - true
+      - false
+      q12:
+      - false
+      - true
+      q17:
+      - false
+      - false
+      - true
+      - true
+      - false
+    planning:
+      q2:
+      - false
+      - false
+      - true
+      - true
+      - false
+      q5:
+      - false
+      - true
+      q6:
+      - false
+      - true
+      q11:
+      - false
+      - true
+      - false
+      - true
+      q12:
+      - false
+      - false
+      - false
+      - false
+      - true
+      - true
+      - true
+      - true
+      - false
+      q16:
+      - false
+      - true
+      - false
+      - true
+      - false
+      q17:
+      - true
+      - true
+      - false
+      - false
+      q18:
+      - false
+      - true
+      q22:
+      - true
+      - true
+      - false
+      - false
+      q23:
+      - false
+      - true
+      - true
+      - true
+      - false
+      - true
+      - false
+      q24:
+      - false
+      - true
+      - true
+      q25:
+      - true
+      - true
+      - false
+      - true
+      - false
+      - true
+      - false
+      q28:
+      - true
+      - true
+      - false
+      q29:
+      - true
+      - false
+      - true
+      q30:
+      - false
+      - true
+      q33:
+      - true
+      - true
+      - false
+      - false
+      - true
+      - false
+      - false
+      - true
+    support:
+      q1:
+      - true
+      - false
+      - true
+      q4:
+      - true
+      - true
+      - false
+      q6:
+      - false
+      - true
+      - true
+      q13:
+      - true
+      - true
+      - false
+      - true
+      - false
+      - false
+      - true
+      q16:
+      - false
+      - true
+      - true
+      - false
+      - false
+      - true
+      q17:
+      - true
+      - false
+      - false
+      - true
+      - true
+      - false
+      q18:
+      - false
+      - true
+      - true
+      q20:
+      - true
+      - true
+      - false
+      q22:
+      - true
+      - false
+      - true
+      - false
+    operation:
+      q1:
+      - true
+      - false
+      - true
+      - false
+      - false
+      q2:
+      - true
+      - false
+      q6:
+      - true
+      - false
+      - true
+      q7:
+      - false
+      - true
+      q8:
+      - true
+      - false
+      q14:
+      - false
+      - false
+      - true
+      - true
+      q19:
+      - true
+      - false
+      q21:
+      - true
+      - true
+      - false
+      q25:
+      - false
+      - true
+      - true
+      - false
+      q29:
+      - false
+      - true
+      - true
+      q30:
+      - true
+      - false
+      q32:
+      - true
+      - false
+      - true
+      q34:
+      - false
+      - false
+      - false
+      - true
+      - true
+      - true
+      - false
+      - true
+      q43:
+      - false
+      - false
+      - true
+      - true
+      - false
+      q49:
+      - true
+      - false
+      - true
+      q51:
+      - false
+      - true
+      q52:
+      - false
+      - true
+      q53:
+      - true
+      - false
+      q63:
+      - false
+      - true
+      - true
+      - false
+      - false
+      - true
+      q78:
+      - true
+      - false
+      q79:
+      - true
+      - true
+      - false
+      - false
+      q82:
+      - true
+      - false
+      q87:
+      - true
+      - false
+      q90:
+      - false
+      - true
+      - true
+      q92:
+      - false
+      - true
+      - true
+      - true
+      - false
+      - false
+      q93:
+      - false
+      - true
+      - true
+      q94:
+      - false
+      - true
+      - true
+      q95:
+      - true
+      - true
+      - true
+      - false
+      - true
+      - false
+      - false
+      q98:
+      - true
+      - false
+      - false
+      - false
+      - true
+      - false
+      - false
+      - true
+      - true
+    performance_evaluation:
+      q1:
+      - false
+      - true
+      - true
+      q9:
+      - true
+      - false
+      - true
+      q15:
+      - false
+      - true
+      q19:
+      - false
+      - true
+      - false
+      - true
+      - false
+      - true
+      q20:
+      - false
+      - true
+      - true
+      - false
+    improvement:
+      q1:
+      - true
+      - true
+      - false
+      q2:
+      - false
+      - true
+      - true
+      - false
+      q6:
+      - true
+      - false
+      - true

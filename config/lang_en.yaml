@@ -1,0 +1,80 @@
+app_title: ISO 55001 Assessment Toolkit
+section_scores: Section Scores
+total_score: Total Score
+save_progress: Save Progress
+load_progress: Load Progress
+progress_saved: Progress saved!
+progress_loaded: Last progress loaded!
+report_title: ISO 55001 Assessment Report
+report_generate_time: Generation Time
+radar_chart: Radar Chart
+section_table: Section Scores Table
+assessment_detail: Detailed Assessment Results
+export_pdf: Export PDF Report
+export_excel: Export Excel Report
+zh_button: 中文
+en_button: English
+last_saved: Last saved
+system_assessment: System Assessment
+result_analysis: Result Analysis
+report_export: Report Export
+generate_excel_report: Generate Excel Report
+generating_excel_report: Generating Excel report...
+download_excel_report: Download Excel Report
+excel_report_generated: Excel report generated successfully
+error_generating_excel_report: Error generating Excel report
+radar_chart_data: Radar Chart Data
+assessment_results: Assessment Results
+generate_pdf_report: Generate PDF Report
+generating_pdf_report: Generating PDF report...
+download_pdf_report: Download PDF Report
+pdf_report_generated: PDF report generated successfully
+failed_generating_pdf_report: Failed to generate PDF report
+generate_markdown_report: Generate Markdown Report
+generating_markdown_report: Generating Markdown report...
+download_markdown_report: Download Markdown Report
+markdown_report_generated: Markdown report generated successfully
+failed_generating_markdown_report: Failed to generate Markdown report
+generate_docx_report: Generate DOCX Report
+generating_docx_report: Generating DOCX report...
+download_docx_report: Download DOCX Report
+docx_report_generated: DOCX report generated successfully
+failed_generating_docx_report: Failed to generate DOCX report
+overall_score: Overall Score
+element_scores: Element Scores
+cannot_generate_radar_chart: Cannot generate radar chart
+score: Score
+question: Question
+type: Type
+weight: Weight
+sub_question_scores: Sub-question scores
+answer_yes: Yes
+answer_no: No
+progress_auto_saved: Progress auto-saved
+last_progress_loaded: Last progress loaded!
+error_saving_progress: Error saving progress
+error_loading_progress: Error loading progress
+unknown_section: Unknown Section
+error_loading_questions: Error loading assessment questions
+error_rendering_assessment: Error rendering assessment page
+error_rendering_results: Error rendering results analysis page
+error_generating_report: Error generating report
+question_types: Question Types
+preset_scores_title: Preset Scores
+element_scores_detail: Element Scores Detail
+detailed_assessment_results: Detailed Assessment Results
+element: Element
+assessment: Assessment Result
+compliance_score: Compliance Score
+preset_scores: Preset Scores
+load_preset_scores: Load Preset Scores
+cannot_load_preset_scores: Cannot load preset scores
+preset_scores_loaded: "Preset scores loaded: {grade} grade"
+not_implemented: Not Implemented
+preliminary_implementation: Preliminary Implementation
+partial_implementation: Partially Implemented
+mostly_implemented: Mostly Implemented
+fully_implemented: Fully Implemented
+question_type_pj: "Subjective Judgment. The question score is based on \"professional judgment\", judged according to the scoring principles. Scores can range from 0 to full marks based on judgment."
+question_type_xo: "Yes/No Judgment. The question has only two answer options: yes or no. A \"yes\" answer gets full marks, and a \"no\" answer gets zero marks. To get any score, the activity must reach at least \"90% compliance\", with 60% of relevant personnel understanding the content and requirements, and implementation time of no less than three months. Otherwise, zero marks are given."
+question_type_pw: "Multiple Choice. When a question contains several components, each component can be scored separately, and the sum is the final score. To get any score, the activity must reach at least \"90% compliance\", with 60% of relevant personnel understanding the content and requirements, and implementation time of no less than three months. Otherwise, zero marks are given."

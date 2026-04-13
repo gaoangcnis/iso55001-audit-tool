@@ -1,0 +1,12 @@
+# ISO 55001 评估工具通用配置文件
+# 用于定义应用程序的基础设置和资源路径
+
+# 报告模板路径配置
+report_template_pdf: templates/report_template.pdf  # PDF报告模板文件路径
+report_template_excel: templates/report_template.xlsx  # Excel报告模板文件路径
+
+# 字体配置
+font_zh: SimSun  # 中文常规字体
+font_zh_bold: SimHei  # 中文粗体字体
+font_en: Helvetica  # 英文常规字体
+font_en_bold: Helvetica-Bold  # 英文粗体字体

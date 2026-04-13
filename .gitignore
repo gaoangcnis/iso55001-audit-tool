@@ -42,4 +42,12 @@ Thumbs.db
 *.xlsx
 *.xls
 *.csv
-*.log 
+*.log
+*.db
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Debug scripts (development only)
+debug_*.py 

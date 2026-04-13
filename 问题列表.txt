@@ -1,0 +1,54 @@
+2025-12
+增加generate_preset_scores中的预设分值，分为ABCDE五档
+
+questionnaire中是问题列表，ISO 55001 审核工具，问题列表内容较多，如果每个选项都由审核员填写，时间较长，分析代码，能不能生成一个yaml文件，针对每个问题，给出预设的分值，预置的分值按五个等级，分为ABCDE档，比如A档分数求和为950分，B档900分，C档800分，D档700分，E档600分，然后在页面左侧“问题类型说明”下方，增加ABCDE档的选项按钮，点击对应的按钮，加载对应的分值，并将页面的选择按钮置于对应分值的选项，先不要修改代码，先分析如何实现这个需求
+
+对照score_weights每个问题的分值上限，逐一检查preset_scores中的分值，对应的题目，分值设置不能超过score_weights每个问题的分值上限。
+
+很好，如果想修改ABCDE的预设分值，是不是修改grade_scores中对应的总分，然后再执行generate_preset_scores就行
+
+检查程序，不用修改代码，看看还有没有代码逻辑问题
+
+单元测试都正确运行了么？不影响原有代码执行吧？后续主程序代码变更，需要同步更新单元测试么？
+
+
+- 中英文问题一致性 ：新增或删除问题时，需要同时在 questionnaire.yaml （中文）和 questionnaire_en.yaml （英文）中保持一致的结构
+- 问题类型规范 ：
+
+- XO类型：只需description字段
+- PJ类型：只需description字段
+- PW类型：必须包含sub_questions字段（中英文）
+- 问题ID唯一性 ：确保新增问题的ID在所属章节内唯一
+
+### 运行时必需文件：
+- app.py ：主应用程序
+- config/ 文件夹：
+  - config.yaml ：主要配置文件
+  - lang_zh.yaml 、 lang_en.yaml ：中英文语言文件
+  - preset_scores.yaml ：预设分值数据
+  - questionnaire.yaml 、 questionnaire_en.yaml ：中英文问题数据
+  - score_weights.yaml ：分值权重配置
+- fonts/ 文件夹：
+  - simhei.ttf 、 simsun.ttc ：PDF生成所需的中文字体
+- requirements.txt ：项目依赖列表
+- style.css ：UI样式文件
+- assessment_data.db ：评估数据数据库（运行时自动生成）
+### 开发/维护辅助工具（可选，建议保留）：
+- check_preset_scores.py ：验证预设分值的工具
+- compare_lang_files.py ：比较中英文语言文件的工具
+- generate_preset_scores.py ：生成预设分值的工具
+- generate_weights.py ：生成权重配置的工具
+- config_loader.py ：配置加载器模块
+- config_validator.py ：配置验证器模块
+### 调试脚本（临时，可删除）：
+- debug_full_process.py ：完整流程调试脚本
+- debug_score.py ：得分计算调试脚本
+### 测试文件（用于测试，建议保留）：
+- test_*.py ：各种测试文件
+### 文档文件（可选，建议保留）：
+- README.md ：项目说明文档
+- 使用说明书.md ：使用说明文档
+- 代码分析报告.md ：代码分析报告
+- 问题列表.txt ：问题列表文档
+### 系统生成文件（临时，可删除）：
+- .coverage ：覆盖率测试文件
